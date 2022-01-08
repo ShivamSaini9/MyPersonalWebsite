@@ -363,7 +363,7 @@ box-shadow:  0 0 5px rgb(255, 122, 45), 0 0 10px rgb(255, 122, 45), 0 0 15px rgb
       }
       nav .logo{
        font-size: 20px;
-       font-weight: 300;
+       font-weight: 600;
       
      }
      nav ul{
@@ -482,7 +482,7 @@ box-shadow:  0 0 5px rgb(255, 122, 45), 0 0 10px rgb(255, 122, 45), 0 0 15px rgb
      }
      nav .logo{
        font-size: 20px;
-       font-weight: 300;
+       font-weight: 500;
        margin: 1px 3px;
        padding: 2px;
      }
