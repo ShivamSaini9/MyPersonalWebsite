@@ -314,13 +314,13 @@ box-shadow:  0 0 5px rgb(255, 122, 45), 0 0 10px rgb(255, 122, 45), 0 0 15px rgb
     margin:10px 15px;
  
 }
-.social-menu ul li .fab{
+.social-menu ul li .fa{
     font-size: 20px;
     line-height:40px;
     transition:.6s;
     color:#000;
 }
-.social-menu ul li .fab:hover{
+.social-menu ul li .fa:hover{
     color:#fff;
 }
 .social-menu ul li a{
@@ -435,7 +435,7 @@ box-shadow:  0 0 5px rgb(255, 122, 45), 0 0 10px rgb(255, 122, 45), 0 0 15px rgb
       margin:6px 9px;
   
   }
-  .social-menu ul li .fab{
+  .social-menu ul li .fa{
       font-size: 15px;
       line-height:35px;
   }
@@ -555,7 +555,7 @@ box-shadow:  0 0 5px rgb(255, 122, 45), 0 0 10px rgb(255, 122, 45), 0 0 15px rgb
       margin:6px 9px;
   
   }
-  .social-menu ul li .fab{
+  .social-menu ul li .fa{
       font-size: 15px;
       line-height:35px;
   }
